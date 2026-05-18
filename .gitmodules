@@ -1,0 +1,6 @@
+[submodule "backend/markdown_latex_converter"]
+	path = backend/markdown_latex_converter
+	url = https://github.com/mdlaras/markdown_latex_converter.git
+[submodule "backend/markdown_merger"]
+	path = backend/markdown_merger
+	url = https://github.com/mdlaras/markdown_merger.git
